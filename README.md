@@ -5,3 +5,7 @@
 -  IP адрес 158.160.43.12
 -  Frontend https://isvakulenko.students.nomoredomains.work
 -  Backend https://api/isvakulenko.students.nomoredomains.work
+
+Для проверки сервиса можно воспользоваться тестовыми данными:
+ - Логин: test@mesto.ru;
+ - Пароль: 111.
